@@ -1,0 +1,17 @@
+typeCode,freqCode,refPeriodId,refYear,refMonth,period,reporterCode,reporterISO,reporterDesc,flowCode,flowDesc,partnerCode,partnerISO,partnerDesc,partner2Code,partner2ISO,partner2Desc,classificationCode,classificationSearchCode,isOriginalClassification,cmdCode,cmdDesc,aggrLevel,isLeaf,customsCode,customsDesc,mosCode,motCode,motDesc,qtyUnitCode,qtyUnitAbbr,qty,isQtyEstimated,altQtyUnitCode,altQtyUnitAbbr,altQty,isAltQtyEstimated,netWgt,isNetWgtEstimated,grossWgt,isGrossWgtEstimated,cifvalue,fobvalue,primaryValue,legacyEstimationFlag,isReported,isAggregate
+C,A,20210101,2021,52,2021,702,,,M,,784,,,0,,,H5,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,823865534.295,,823865534.295,4,False,True
+C,A,20210101,2021,52,2021,702,,,X,,784,,,0,,,H5,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,939988776.906,939988776.906,4,False,True
+C,A,20210101,2021,52,2021,702,,,M,,784,,,0,,,H5,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,28220197.89,,28220197.89,4,False,True
+C,A,20210101,2021,52,2021,702,,,X,,784,,,0,,,H5,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,754876534.918,754876534.918,4,False,True
+C,A,20220101,2022,52,2022,702,,,M,,784,,,0,,,H6,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,1012759461.198,,1012759461.198,4,False,True
+C,A,20220101,2022,52,2022,702,,,X,,784,,,0,,,H6,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,1062166667.106,1062166667.106,4,False,True
+C,A,20220101,2022,52,2022,702,,,M,,784,,,0,,,H6,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,37959995.822,,37959995.822,4,False,True
+C,A,20220101,2022,52,2022,702,,,X,,784,,,0,,,H6,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,948956287.473,948956287.473,4,False,True
+C,A,20230101,2023,52,2023,702,,,M,,784,,,0,,,H6,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,False,0,False,1101079328.84,,1101079328.84,0,False,True
+C,A,20230101,2023,52,2023,702,,,X,,784,,,0,,,H6,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,803568526.992,803568526.992,4,False,True
+C,A,20230101,2023,52,2023,702,,,M,,784,,,0,,,H6,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,24997506.458,,24997506.458,4,False,True
+C,A,20230101,2023,52,2023,702,,,X,,784,,,0,,,H6,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,1108948835.059,1108948835.059,4,False,True
+C,A,20240101,2024,52,2024,702,,,M,,784,,,0,,,H6,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,False,0,False,1111625992.566,,1111625992.566,0,False,True
+C,A,20240101,2024,52,2024,702,,,X,,784,,,0,,,H6,HS,True,71,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,False,0,False,,874710892.494,874710892.494,0,False,True
+C,A,20240101,2024,52,2024,702,,,M,,784,,,0,,,H6,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,35717981.877,,35717981.877,4,False,True
+C,A,20240101,2024,52,2024,702,,,X,,784,,,0,,,H6,HS,True,85,,,,C00,,0,0,,-1,,0,False,-1,,0,False,0,True,0,False,,1064458537.298,1064458537.298,4,False,True
