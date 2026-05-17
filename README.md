@@ -1,7 +1,9 @@
 # Quantitative Mirror Trade Discrepancy Analysis (TBML)
 
-> **Analytical Track:** Bilateral Data Pipelines & Anomaly Detection  
-> **Regulatory Anchor:** MAS Notice 626 (Paragraph 4 & Red Flag Indicators) | FATF TBML Guidance  
+> **Analytical Track:** Bilateral Data Pipelines & Anomaly Detection
+> 
+> **Regulatory Anchor:** MAS Notice 626 (Paragraph 4 & Red Flag Indicators) | FATF TBML Guidance
+> 
 > **Project Status:** In Progress (Phase 1: Environment & Architecture)
 
 ---
