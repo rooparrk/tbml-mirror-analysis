@@ -1,0 +1,13 @@
+period,country_A,country_B,cmdDesc,flow_A,val_A_millions,val_B_millions,asymmetry_delta_millions,discrepancy_ratio,is_anomaly,streak_id,anomaly_streak_years
+2021,Singapore,United Arab Emirates,Electronics (HS 85),Import,28.22,78.81,-50.59,0.3581,True,1,1
+2021,Singapore,United Arab Emirates,Electronics (HS 85),Export,754.88,55.08,699.8,13.7052,True,1,2
+2022,Singapore,United Arab Emirates,Electronics (HS 85),Import,37.96,84.13,-46.17,0.4512,True,1,3
+2022,Singapore,United Arab Emirates,Electronics (HS 85),Export,948.96,72.94,876.02,13.0101,True,1,4
+2023,Singapore,United Arab Emirates,Electronics (HS 85),Import,25.0,85.27,-60.27,0.2932,True,1,5
+2023,Singapore,United Arab Emirates,Electronics (HS 85),Export,1108.95,128.9,980.05,8.6032,True,1,6
+2021,Singapore,United Arab Emirates,Precious Metals (HS 71),Import,823.87,1037.56,-213.69,0.794,False,1,0
+2021,Singapore,United Arab Emirates,Precious Metals (HS 71),Export,939.99,724.04,215.95,1.2983,True,2,1
+2022,Singapore,United Arab Emirates,Precious Metals (HS 71),Import,1012.76,1492.83,-480.07,0.6784,True,2,2
+2022,Singapore,United Arab Emirates,Precious Metals (HS 71),Export,1062.17,876.11,186.06,1.2124,False,3,0
+2023,Singapore,United Arab Emirates,Precious Metals (HS 71),Import,1101.08,1646.73,-545.65,0.6686,True,4,1
+2023,Singapore,United Arab Emirates,Precious Metals (HS 71),Export,803.57,631.42,172.15,1.2726,True,4,2
